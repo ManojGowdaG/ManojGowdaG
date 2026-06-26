@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner.png" width="50%" alt="GitHub Banner">
+  <img src="./assets/Banner.png" width="100%" alt="GitHub Banner">
 </p>
 # 💫 About Me:<br>
 🎓 MCA Student<br>💻 Aspiring Software Engineer<br>🌱 Currently learning AI, Cloud, and Data Technologies<br>🚀 Passionate about building practical software solutions
