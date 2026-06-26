@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="GitHub Banner">
+</p>
 # 💫 About Me:
 🎓 MCA Student<br>💻 Aspiring Software Engineer<br>🌱 Currently learning AI, Cloud, and Data Technologies<br>🚀 Passionate about building practical software solutions
 
